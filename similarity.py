@@ -1,8 +1,3 @@
-"""
-@brief: Similarity functions for vehicle reidentification
-@author: Harshit Kumar, Khushi Neema
-"""
-
 import numpy as np
 import cv2
 from sklearn.metrics.pairwise import cosine_similarity
